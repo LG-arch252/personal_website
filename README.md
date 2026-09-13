@@ -39,11 +39,7 @@ cd personal_website
 ```
 ### Open the website
 Simply open `index.html` in your browser.
-Or use VS Code Live Server:
-```bash
-code .
-```
-Then start Live Server.
+
 ## 🔍 How It Works
 
 This website is built using HTML and CSS and is hosted on GitHub Pages.
