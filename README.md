@@ -2,8 +2,6 @@
 
 A simple personal portfolio website introducing me, my interests, and my projects.
 
-![Website Screenshot](screenshot.png)
-
 ## 🌐 Live Demo
 
 **Visit the website:**  
